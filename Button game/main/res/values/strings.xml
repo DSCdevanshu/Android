@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Button game</string>
+    <string name="hello_world">Hello World</string>
+    <string name="textview1">Text View 1</string>
+    <string name="textview3">Text View 3</string>
+    <string name="textview4">Text View 4</string>
+    <string name="textview5">Text View 5</string>
+    <string name="RED">RED</string>
+    <string name="BLUE">BLUE</string>
+    <string name="GREEN">GREEN</string>
+    <string name="how_to_play">how to play</string>
+    <string name="description">Tap on screen or button</string>
+</resources>
